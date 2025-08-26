@@ -1,0 +1,15 @@
+# Claude Code configuration
+CLAUDE.md
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*~
